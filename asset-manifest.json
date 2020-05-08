@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/image-recognition/static/css/main.8377d04a.chunk.css",
+    "main.js": "/image-recognition/static/js/main.cbfb02e5.chunk.js",
+    "main.js.map": "/image-recognition/static/js/main.cbfb02e5.chunk.js.map",
+    "runtime-main.js": "/image-recognition/static/js/runtime-main.5af5c6c7.js",
+    "runtime-main.js.map": "/image-recognition/static/js/runtime-main.5af5c6c7.js.map",
+    "static/css/2.66b7f74f.chunk.css": "/image-recognition/static/css/2.66b7f74f.chunk.css",
+    "static/js/2.5fe9751b.chunk.js": "/image-recognition/static/js/2.5fe9751b.chunk.js",
+    "static/js/2.5fe9751b.chunk.js.map": "/image-recognition/static/js/2.5fe9751b.chunk.js.map",
+    "index.html": "/image-recognition/index.html",
+    "precache-manifest.eaf03ccfe0e83fff627cfc1bb007e8bb.js": "/image-recognition/precache-manifest.eaf03ccfe0e83fff627cfc1bb007e8bb.js",
+    "service-worker.js": "/image-recognition/service-worker.js",
+    "static/css/2.66b7f74f.chunk.css.map": "/image-recognition/static/css/2.66b7f74f.chunk.css.map",
+    "static/css/main.8377d04a.chunk.css.map": "/image-recognition/static/css/main.8377d04a.chunk.css.map",
+    "static/js/2.5fe9751b.chunk.js.LICENSE.txt": "/image-recognition/static/js/2.5fe9751b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5af5c6c7.js",
+    "static/css/2.66b7f74f.chunk.css",
+    "static/js/2.5fe9751b.chunk.js",
+    "static/css/main.8377d04a.chunk.css",
+    "static/js/main.cbfb02e5.chunk.js"
+  ]
+}
