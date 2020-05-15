@@ -24,16 +24,20 @@ class Register extends React.Component {
 
     onRegisterClick = () => {
         const { onRouteChange, loadUser } = this.props; 
-        fetch('https://evening-coast-40877.herokuapp.com/register',
+
+        fetch('https://whispering-scrubland-50063.herokuapp.com/register',
         {
             method : 'POST',
-            headers : {'Content-Type': 'application/json'},
+            headers : {
+                'Content-Type': 'application/json'
+            },
             body: JSON.stringify({
                 name : this.state.name,
                 email : this.state.email,
                 password: this.state.password
-            }) 
-        }).then(response => response.json())
+            })
+        })
+        .then(response => response.json())
         .then(data => {
             if(data.id){
                 loadUser(data);

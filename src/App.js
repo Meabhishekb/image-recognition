@@ -75,7 +75,7 @@ class App extends Component {
 
   onButtonSubmit = () =>{
     this.setState({imageURL: this.state.input});
-      fetch('https://evening-coast-40877.herokuapp.com/imageUrl',{
+      fetch('https://whispering-scrubland-50063.herokuapp.com/imageUrl',{
         method: 'POST',
           headers : {'Content-Type': 'application/json'},
           body: JSON.stringify({
@@ -85,7 +85,7 @@ class App extends Component {
       .then(response=>response.json())
       .then(response=>{
         if(response){
-          fetch('https://evening-coast-40877.herokuapp.com/image',{
+          fetch('https://whispering-scrubland-50063.herokuapp.com/image',{
             method: 'PUT',
             headers : {'Content-Type': 'application/json'},
             body: JSON.stringify({
