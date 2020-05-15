@@ -156,3 +156,5 @@ class App extends Component {
   
 }
 export default App;
+
+//"homepage": "https://Meabhishek.github.io/image-recognition",
