@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f7d51e7f85630cedd676ebe9bc381cfe",
+    "revision": "730dc5e0d98b798cd95596260cb25f6a",
     "url": "/image-recognition/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/image-recognition/static/css/2.66b7f74f.chunk.css"
   },
   {
-    "revision": "6bbc1f998f5b87fa884d",
+    "revision": "3f28f406fbe0c37021ef",
     "url": "/image-recognition/static/css/main.8377d04a.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/image-recognition/static/js/2.5fe9751b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6bbc1f998f5b87fa884d",
-    "url": "/image-recognition/static/js/main.801ed550.chunk.js"
+    "revision": "3f28f406fbe0c37021ef",
+    "url": "/image-recognition/static/js/main.82f6075e.chunk.js"
   },
   {
     "revision": "26af9e2a8a199e443e15",

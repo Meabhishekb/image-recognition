@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/image-recognition/static/css/main.8377d04a.chunk.css",
-    "main.js": "/image-recognition/static/js/main.801ed550.chunk.js",
-    "main.js.map": "/image-recognition/static/js/main.801ed550.chunk.js.map",
+    "main.js": "/image-recognition/static/js/main.82f6075e.chunk.js",
+    "main.js.map": "/image-recognition/static/js/main.82f6075e.chunk.js.map",
     "runtime-main.js": "/image-recognition/static/js/runtime-main.5af5c6c7.js",
     "runtime-main.js.map": "/image-recognition/static/js/runtime-main.5af5c6c7.js.map",
     "static/css/2.66b7f74f.chunk.css": "/image-recognition/static/css/2.66b7f74f.chunk.css",
     "static/js/2.5fe9751b.chunk.js": "/image-recognition/static/js/2.5fe9751b.chunk.js",
     "static/js/2.5fe9751b.chunk.js.map": "/image-recognition/static/js/2.5fe9751b.chunk.js.map",
     "index.html": "/image-recognition/index.html",
-    "precache-manifest.bf23c0b921589d7ad0366cdd8aed949b.js": "/image-recognition/precache-manifest.bf23c0b921589d7ad0366cdd8aed949b.js",
+    "precache-manifest.30cef6a60f4fcb3a9cc3df49f0b4be2f.js": "/image-recognition/precache-manifest.30cef6a60f4fcb3a9cc3df49f0b4be2f.js",
     "service-worker.js": "/image-recognition/service-worker.js",
     "static/css/2.66b7f74f.chunk.css.map": "/image-recognition/static/css/2.66b7f74f.chunk.css.map",
     "static/css/main.8377d04a.chunk.css.map": "/image-recognition/static/css/main.8377d04a.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.66b7f74f.chunk.css",
     "static/js/2.5fe9751b.chunk.js",
     "static/css/main.8377d04a.chunk.css",
-    "static/js/main.801ed550.chunk.js"
+    "static/js/main.82f6075e.chunk.js"
   ]
 }
